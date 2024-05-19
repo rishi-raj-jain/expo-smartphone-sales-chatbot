@@ -26,10 +26,11 @@ export default function App() {
           onChangeText={(e) => handleInputChange(e)}
           className="mt-3 w-full p-2 border border-gray-300 rounded"
         />
-        <Pressable className="mt-3" onPress={handleSubmit}>
-          <Text className="w-[80px] border rounded px-3 py-1 bg-black text-white">
-            Chat &rarr;
-          </Text>
+        <Pressable
+          onPress={(e) => handleSubmit(e)}
+          className="w-[90px] border rounded px-3 py-1 bg-black mt-3"
+        >
+          <Text className="text-white">Show Me</Text>
         </Pressable>
       </View>
     </ScrollView>
