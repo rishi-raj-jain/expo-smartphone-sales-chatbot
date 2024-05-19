@@ -28,7 +28,7 @@ Learn how to use Cloudflare AI with Upstash Vector and Expo to build a smartphon
 
 - [OpenAI](https://platform.openai.com) - OpenAI is an artificial intelligence research lab focused on developing advanced AI technologies.
 
-- [Cloudflare Workers AI](developers.cloudflare.com/workers-ai) - Run machine learning models, powered by serverless GPUs, on Cloudflare’s global network.
+- [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai) - Run machine learning models, powered by serverless GPUs, on Cloudflare’s global network.
 
 ### UI
 
