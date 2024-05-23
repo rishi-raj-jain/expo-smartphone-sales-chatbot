@@ -1,4 +1,4 @@
-![](https://upstash.com/blog/smartphone-sales-chatbot/opengraph-image)
+![](https://upstash.com/blog/using-cloudflare-ai-with-upstash-vector-and-expo-to-build-a-smartphone-sales-chatbot/opengraph-image)
 
 # Using Cloudflare AI with Upstash Vector and Expo to Build a Smartphone Sales Chatbot
 
