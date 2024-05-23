@@ -1,6 +1,6 @@
 ![](https://upstash.com/blog/using-cloudflare-ai-with-upstash-vector-and-expo-to-build-a-smartphone-sales-chatbot/opengraph-image)
 
-# Using Cloudflare AI with Upstash Vector and Expo to Build a Smartphone Sales Chatbot
+# Build an AI Powered Mobile Chatbot with Expo and Cloudflare AI
 
 <p>
   <a href="#introduction"><strong>Introduction</strong></a> ·
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Learn how to use Cloudflare AI with Upstash Vector and Expo to build a smartphone sales chatbot.
+Learn how to build an AI Powered Mobile Chatbot with Expo and Cloudflare AI.
 
 ## Tech Stack + Features
 
